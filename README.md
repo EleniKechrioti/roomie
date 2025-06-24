@@ -57,6 +57,7 @@ Roomie also supports manager and customer functionality, through a console and a
 ## Collaborators
 
 - [Eleni Kechrioti](https://github.com/EleniKechrioti)
+- [Christos Stamoulos](https://github.com/ChristosStamoulos)
 - [Maria Schoinaki](https://github.com/MariaSchoinaki)
 
 You can find a demo video [here](https://player.vimeo.com/video/998856180?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479).
